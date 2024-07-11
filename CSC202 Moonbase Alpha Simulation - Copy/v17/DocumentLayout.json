@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|solutionrelative:formmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|c:\\users\\dr bonner\\source\\repos\\csc202 moonbase alpha simulation\\dialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|solutionrelative:dialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\dialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2B0E0A-FDE3-4A08-BADC-1DE210432DAB}|CSC202 Moonbase Alpha Simulation.csproj|solutionrelative:dialogbox.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "DialogBox.cs",
+              "DocumentMoniker": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\DialogBox.cs",
+              "RelativeDocumentMoniker": "DialogBox.cs",
+              "ToolTip": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\DialogBox.cs",
+              "RelativeToolTip": "DialogBox.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAWwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T18:51:07.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DialogBox.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\DialogBox.cs",
+              "RelativeDocumentMoniker": "DialogBox.cs",
+              "ToolTip": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\DialogBox.cs [Design]",
+              "RelativeToolTip": "DialogBox.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T17:32:43.035Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FormMain.cs",
+              "DocumentMoniker": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\FormMain.cs",
+              "RelativeToolTip": "FormMain.cs",
+              "ViewState": "AQIAADUAAAAAAAAAAAAowFIAAABdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T06:05:04.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FormMain.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\FormMain.cs",
+              "RelativeDocumentMoniker": "FormMain.cs",
+              "ToolTip": "C:\\Users\\DR BONNER\\source\\repos\\CSC202 Moonbase Alpha Simulation\\FormMain.cs [Design]",
+              "RelativeToolTip": "FormMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-30T04:56:07.378Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\bin\Debug\CSC202 Moonbase Alpha Simulation.exe.config
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\bin\Debug\CSC202 Moonbase Alpha Simulation.exe
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\bin\Debug\CSC202 Moonbase Alpha Simulation.pdb
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.csproj.AssemblyReference.cache
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202_Moonbase_Alpha_Simulation.DialogBox.resources
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202_Moonbase_Alpha_Simulation.FormMain.resources
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202_Moonbase_Alpha_Simulation.Properties.Resources.resources
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.csproj.GenerateResource.cache
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.csproj.CoreCompileInputs.cache
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.exe
+C:\Users\DR BONNER\source\repos\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.pdb
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\bin\Debug\CSC202 Moonbase Alpha Simulation.exe.config
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\bin\Debug\CSC202 Moonbase Alpha Simulation.exe
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\bin\Debug\CSC202 Moonbase Alpha Simulation.pdb
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.csproj.AssemblyReference.cache
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202_Moonbase_Alpha_Simulation.DialogBox.resources
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202_Moonbase_Alpha_Simulation.FormMain.resources
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202_Moonbase_Alpha_Simulation.Properties.Resources.resources
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.csproj.GenerateResource.cache
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.csproj.CoreCompileInputs.cache
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.exe
+C:\Users\DR BONNER\Desktop\CSC202 Moonbase Alpha Simulation\obj\Debug\CSC202 Moonbase Alpha Simulation.pdb
